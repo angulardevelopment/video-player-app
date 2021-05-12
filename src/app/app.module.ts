@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { VideospeedComponent } from './videospeed/videospeed.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    VideospeedComponent
   ],
   imports: [
     BrowserModule,

@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "video-player"
+  "defaultProject": "video-player",
+  "cli": {
+    "analytics": false
+  }
 }
