@@ -1,3 +1,8 @@
+# About
+
+Videoplayer - Control video speed and skip the content for a few seconds by clicking.
+count video running time			
+
 # VideoPlayer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
